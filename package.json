@@ -3,7 +3,7 @@
   "description": "bottender connector for messenger, simple",
   "license": "MIT",
   "author": "tw0517tw",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "main": "lib/index.js",
   "files": [
     "lib"
